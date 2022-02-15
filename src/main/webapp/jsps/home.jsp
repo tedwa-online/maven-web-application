@@ -20,7 +20,7 @@
 		Instagrocers, 
 		Gandhi Nagar,
 		Lucknow,
-		+91-9980923226,
+		+91-9519938833,
 		devopstrainingbr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
