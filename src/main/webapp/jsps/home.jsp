@@ -19,7 +19,7 @@
 	<span style="font-weight: bold;">
 		Instagrocers, 
 		Martha Halli,
-		Bangalore,
+		Lucknow,
 		+91-9980923226,
 		devopstrainingbr@gmail.com
 		<br>
