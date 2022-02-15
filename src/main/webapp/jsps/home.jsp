@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Instagrocers, 
-		Martha Halli,
+		Gandhi Nagar,
 		Lucknow,
 		+91-9980923226,
 		devopstrainingbr@gmail.com
