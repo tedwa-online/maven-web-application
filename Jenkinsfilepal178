@@ -18,11 +18,4 @@ stage('UploadintoNexus'){
 sh "${mavenHome}/bin/mvn deploy"
 }
 
-stage('DeployintoTomcat'){
-
-sshagent(['cf3292c0-bc32-4106-bd56-8f93becf7f44']) {
-sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@3.110.191.119:/opt/apache-tomcat-9.0.58/webapps/"
-}
-}
-
 }// Node closing
